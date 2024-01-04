@@ -48,3 +48,13 @@ body {
 .article__title {
   color: var(--color-nemo);
 }
+
+.redButton {
+  background-color: red;
+  position: relative;
+  left: 250px;
+}
+
+.blueButton {
+  background-color: blue;
+}
